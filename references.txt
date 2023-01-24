@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=sgQAhG5Q7iY
+https://github.com/Suji04/ML_from_Scratch/blob/master/decision%20tree%20classification.ipynb
+https://github.com/Suji04/ML_from_Scratch/blob/master/decision%20tree%20regression.ipynb
+https://www.geeksforgeeks.org/decision-tree-implementation-python/
+https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+https://towardsdatascience.com/almost-everything-you-need-to-know-about-decision-trees-with-code-dc026172a284
