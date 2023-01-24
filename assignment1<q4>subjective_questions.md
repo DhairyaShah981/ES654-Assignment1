@@ -35,7 +35,7 @@ The time complexity of the program can be different based on the input types and
 
 	- In the case that the product of all unique attributes from each of the columns is lesser than the sample size($N$):
 		The total number of all possible combinations for a row in the input set is equal to the product of all the unique attributes from each of the columns.Thus, in the case that this value is less than the total number of samples, the maximum possible iteration will be one less than that product value
-		even in the worst case scenario. This value $X$ will be of some order $d_i^M$, where  $d_i$ is the number of unique attribute value in one of the columns. 
+		even in the worst case scenario. This value $X$ will be of some order $d_i^M$, where  $d_i$ is the number of unique attribute value in any one of the columns $i$. 
 
 	- In the case that the product of all unique attributes from each of the columns is greater than the sample size($N$):
 	In such a case, since the decision tree is built in such a way that every non leaf node has at least two children, the maximum number of nodes and hence the
